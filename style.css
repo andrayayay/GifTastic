@@ -1,15 +1,17 @@
 /* entire page */
 body {
-    font-size: 18pt;
     font-display: 600;
     font-family: Arial, Helvetica, sans-serif;
     background: lightblue;
+    text-align: center;
   }
 
 /* title header */
-h1 {
+#header {
     text-align: center;
     font-weight: 600;
+    font-size: 32pt;
+    text-decoration: none;
 }
 
 /* entire form */
